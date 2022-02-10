@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activitiy_behavior_cmb_wealth.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_index_ui.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/activity_main_func.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/layout/common_dialog_auto_scene_guide.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/layout/include_skeleton_item.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/layout/include_skeleton_item_2.xml" value="0.3645833333333333" />
+        <entry key="app/src/main/res/layout/include_skeleton_list.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
